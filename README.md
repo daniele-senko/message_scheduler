@@ -86,4 +86,4 @@ Abaixo estão as rotas disponíveis na API.
 | `POST` | `/api/token/refresh/` | **Renovação:** Envie o `refresh` token para gerar um novo `access` token quando o antigo expirar. |
 
 ### Status do Projeto
-🚧 Em desenvolvimento. Próximos passos: Frontend em Next.js.
+🚧 Em desenvolvimento. Próximos passos: JWT e Frontend em Next.js.
